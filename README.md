@@ -2,9 +2,9 @@
 <html>
  
 <head>
-
+ <!--
   <style>
-   <!--
+  
     h1 {
       font-size: 32px;
     }
@@ -16,9 +16,10 @@
     h3 {
       font-size: 20px;
     }
-    -->
+    
 
   </style>
+  -->
   
 </head>
 
