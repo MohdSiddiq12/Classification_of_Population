@@ -21,7 +21,7 @@
 
 <body>
   <!-- Project Title -->
-  <h1>🌐 Population Segmentation Using K-Means Clustering</h1>
+  <h1>🌐 Population Classification Using K-Means Clustering</h1>
 
   <!-- Overview Section -->
   <h2>🌐 Overview</h2>
