@@ -51,31 +51,17 @@
     <li><strong>Install Dependencies:</strong> Ensure you have the necessary dependencies installed. You can do this by running:
       <pre>pip install -r requirements.txt</pre>
     </li>
-    <li><strong>Run the Application:</strong> Execute the application and interact with the user-friendly interface to perform population classification.</li>
+   
   </ol>
 
   <!-- Dataset Section -->
   <h2>📊 Dataset</h2>
   <p>The project utilizes a comprehensive dataset containing demographic information and other relevant features for training the logistic regression model.</p>
 
-  <!-- Contributors Section -->
-  <h2>👥 Contributors</h2>
-  <ul>
-    <li>Your Name</li>
-    <!-- Add other contributors if applicable -->
-  </ul>
+  
 
-  <!-- License Section -->
-  <h2>📄 License</h2>
-  <p>This project is licensed under the [Your License Name] - see the [LICENSE.md](LICENSE.md) file for details.</p>
 
-  <!-- Acknowledgments Section -->
-  <h2>🙏 Acknowledgments</h2>
-  <p>Special thanks to [Name] for [specific contribution or support].</p>
 
-  <!-- Documentation and GitHub Links -->
-  <p>For detailed information on installation, usage, and contribution guidelines, please refer to the <a href="docs/README.md">documentation</a>.</p>
-  <p>Find the project on <a href="https://github.com/your-username/your-repository">GitHub</a>.</p>
 
 </body>
 
